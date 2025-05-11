@@ -7,7 +7,7 @@
 * [JWE standard for encryption](https://datatracker.ietf.org/doc/rfc7516/)
 
 # JWT Workflow
-<img src="images/JWT-workflow.jpg"  height="60%" width="60%" />
+<img src="images/JWT-workflow.jpg"  height="90%" width="90%" />
 
 1. Token is created during authentication and is provided (generated and sent to the client) in case of successful authentication.
 2. Application allows a client to present a token representing the user's "identity card" to the server and allow the server to verify the validity and integrity of the token in a secure way
